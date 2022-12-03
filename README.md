@@ -5,3 +5,4 @@ Pycountry Library needed
 Turtel library needed
 
 Game available in English
+Run Flag guessing.py
